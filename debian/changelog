@@ -1,0 +1,59 @@
+libtime-moment-perl (0.44-1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Thu, 24 Nov 2022 07:24:33 +0800
+
+libtime-moment-perl (0.44-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Damyan Ivanov ]
+  * declare conformance with Policy 4.1.3 (no changes needed)
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-* headers for switch to salsa.debian.org
+
+  [ gregor herrmann ]
+  * Import upstream version 0.44.
+  * Declare compliance with Debian Policy 4.1.4.
+  * Bump debhelper compatibility level to 10.
+
+ -- gregor herrmann <gregoa@debian.org>  Fri, 11 May 2018 16:23:33 +0200
+
+libtime-moment-perl (0.42-1) unstable; urgency=medium
+
+  * Team upload.
+  * debian/copyright: Update copyright years.
+  * Bump Standards-Version to 4.0.0 (no changes)
+  * Import upstream version 0.42
+
+ -- Angel Abad <angel@debian.org>  Mon, 03 Jul 2017 17:50:08 +0200
+
+libtime-moment-perl (0.41-1) unstable; urgency=medium
+
+  * Team upload.
+  * Import upstream version 0.41
+  * debian/copyright: Update years.
+
+ -- Angel Abad <angel@debian.org>  Mon, 19 Dec 2016 19:42:23 +0100
+
+libtime-moment-perl (0.40-1) unstable; urgency=medium
+
+  [ gregor herrmann ]
+  * debian/copyright: change Copyright-Format 1.0 URL to HTTPS.
+
+  [ Nick Morrott ]
+  * Import upstream version 0.40
+  * debian/control: Declare compliance with Debian policy 3.9.8
+  * debian/rules: enable hardening=+bindnow
+  * debian/upstream/metadata: refresh metadata
+  * debian/copyright: update years for ppport.h and src/*
+
+ -- Nick Morrott <knowledgejunkie@gmail.com>  Tue, 29 Nov 2016 15:19:09 +0000
+
+libtime-moment-perl (0.38-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #818345)
+
+ -- Nick Morrott <knowledgejunkie@gmail.com>  Mon, 21 Mar 2016 02:38:44 +0000
